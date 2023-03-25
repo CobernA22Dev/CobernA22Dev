@@ -1,0 +1,7 @@
+------------------------------------------------------------------------------------------------
+Update March 03, 2023
+Added load level function to the in game. Next, update it so that player spawns at player spawn.
+
+- Fixed save level
+- Made firebase public for further testing
+------------------------------------------------------------------------------------------------
